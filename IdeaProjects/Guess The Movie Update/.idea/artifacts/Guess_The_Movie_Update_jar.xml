@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Guess The Movie Update:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Guess_The_Movie_Update_jar</output-path>
+    <root id="archive" name="Guess The Movie Update.jar">
+      <element id="module-output" name="Guess The Movie Update" />
+    </root>
+  </artifact>
+</component>
